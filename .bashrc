@@ -1,1 +1,1 @@
-chmod +x node_modules/.bin/nodemon
+export PATH="./node_modules/.bin/:$nodemon"
